@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_npc1",
+  "%Name":"obj_npc2",
   "eventList":[],
   "managed":true,
-  "name":"obj_npc1",
+  "name":"obj_npc2",
   "overriddenProperties":[],
   "parent":{
     "name":"RPG Starter Pack",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_npc1",
-    "path":"sprites/spr_npc1/spr_npc1.yy",
+    "name":"spr_npc2",
+    "path":"sprites/spr_npc2/spr_npc2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
